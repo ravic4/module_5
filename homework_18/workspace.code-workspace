@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Images",
+			"path": "../Images"
+		},
+		{
+			"name": "Starter_Code",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
